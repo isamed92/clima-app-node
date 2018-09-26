@@ -1,4 +1,4 @@
-## Aplicacion de getClima
+## Aplicacion de Clima
 
 ejecutar npm install para las librerias
 
